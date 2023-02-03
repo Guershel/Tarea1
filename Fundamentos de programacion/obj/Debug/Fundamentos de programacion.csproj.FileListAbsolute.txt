@@ -1,0 +1,8 @@
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\bin\Debug\Fundamentos de programacion.exe.config
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\bin\Debug\Fundamentos de programacion.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\bin\Debug\Fundamentos de programacion.pdb
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\obj\Debug\Fundamentos de programacion.csproj.AssemblyReference.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\obj\Debug\Fundamentos de programacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\obj\Debug\Fundamentos de programacion.csproj.CoreCompileInputs.cache
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\obj\Debug\Fundamentos de programacion.exe
+C:\Users\huerc\OneDrive\Documentos\Programacion 2\Seccion2\Fundamentos de programacion\Fundamentos de programacion\obj\Debug\Fundamentos de programacion.pdb
